@@ -1,8 +1,7 @@
 import responses
-from etsy import http_get
-from etsy import get_char_info, search
-from etsy import ThrottlingException
-from etsy import *
+from swapi import http_get
+from swapi import get_char_info, search
+from swapi import ThrottlingException
 import json
 
 @responses.activate
