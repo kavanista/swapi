@@ -1,0 +1,5 @@
+[
+  "test_starwars.py::test_empty_search", 
+  "test_starwars.py::testsearch", 
+  "test_starwars.py::test_throttling"
+]
